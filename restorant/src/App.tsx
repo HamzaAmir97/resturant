@@ -9,10 +9,10 @@ function App() {
   return (
     <>
 
-      <div className="flex flex-col items-start h-screen   bg-amber-200 ">
-      <div  className='align-center'>
+      <div className="flex flex-col items-start h-screen justify-center  bg-amber-200 ">
+      <div  className=' w-full  bg-amber-600 '>
         <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
+          <img src={viteLogo} className="logo  " alt="Vite logo" />
         </a>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
