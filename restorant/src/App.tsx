@@ -10,7 +10,7 @@ function App() {
     <>
 
       <div className="flex flex-col items-start h-screen justify-center  bg-red-600 ">
-      <div  className=' w-full  bg-amber-500 '>
+      <div  className=' w-full  bg-blue-500  border-8 border-black'>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo  " alt="Vite logo" />
         </a>
