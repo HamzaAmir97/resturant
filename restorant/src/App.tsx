@@ -9,8 +9,8 @@ function App() {
   return (
     <>
 
-      <div className="flex flex-col items-start h-screen justify-center  bg-amber-200 ">
-      <div  className=' w-full  bg-amber-600 '>
+      <div className="flex flex-col items-start h-screen justify-center  bg-red-600 ">
+      <div  className=' w-full  bg-amber-500 '>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo  " alt="Vite logo" />
         </a>
